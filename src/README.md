@@ -39,6 +39,6 @@ When you are finished you can build your own version or deploy it to npmjs
 ```bash
 # Building
 yarn build 
-# Or Publiching
+# Or Publishing
 yarn build --publish
 ```
